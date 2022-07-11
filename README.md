@@ -1,11 +1,11 @@
 
-<u>Project Title:</u>
+Project Title:
 Employee Management System
 
-<u>Project Overview:
+Project Overview:
 Built using Sping Boot, Sping MVC, Spring JPA , Spring Hibernate, Thymeleaf, MYSQL Database and styled using Bootstrap, this project aims to eliminate the manual of mantaining employee details by providing a responsive interface to performe CRUD operations.
 
-<u>Tools and Technlogies Used:</u>
+Tools and Technlogies Used:
 - Eclipse IDE
 - Spring Boot
 - Spinng MVC
@@ -15,7 +15,7 @@ Built using Sping Boot, Sping MVC, Spring JPA , Spring Hibernate, Thymeleaf, MYS
 - Thymeleaf
 - Bootstap
 
-<u>Project Dependencies:</u>
+Project Dependencies:
 - spring-boot-starter-web
 - spring-boot-starter-data-jpa
 - mysql-connector-java
